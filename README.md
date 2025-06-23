@@ -20,7 +20,8 @@ git clone https://github.com/yourusername/tic-tac-toe-minimax.git
 2. Run the game
 
 ```bash
-
+python tic_tac_toe.py
+```
 
 # Output demonstration is as follows
 
