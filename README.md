@@ -6,8 +6,11 @@ This is a simple terminal-based Tic Tac Toe game where you play as X and challen
 ## 🧠 Features
 
 ✅ Human vs Computer gameplay
+
 ✅ Computer uses the Minimax algorithm to make optimal moves
+
 ✅ Detects wins, draws, and invalid input
+
 ✅ Runs in any terminal or command line
 
 ## 🖥️ How to Run
