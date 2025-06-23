@@ -25,8 +25,24 @@ git clone https://github.com/yourusername/tic-tac-toe-minimax.git
 ```bash
 python tic_tac_toe.py
 ```
+💡 How It Works
 
-# 🎞 Output demonstration is as follows
++ The board is a 3x3 grid.
++ You (player X) input row and column values (0–2).
++ The computer (O) uses Minimax to always make the best move.
++ The game continues until there's a winner or a draw.
+
+🤖 What is Minimax?
+The Minimax algorithm is a decision-making strategy used in turn-based games like Tic Tac Toe. The AI simulates all possible future game states to:
+
++ Maximize its chances of winning
++ Minimize the player's chances of winning
+
+It is guaranteed to never lose, and it will either win or force a draw.
+
+
+
+## 🎞 Output of the gameplay demonstration is as follows
 
 ```py
 PS D:\pycharm installed\procject\.venv\Scripts> python .\tic_tac_toe.py
