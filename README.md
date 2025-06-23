@@ -26,7 +26,7 @@ git clone https://github.com/yourusername/tic-tac-toe-minimax.git
 python tic_tac_toe.py
 ```
 
-# 🖥 Output demonstration is as follows
+# 🎞 Output demonstration is as follows
 
 ```py
 PS D:\pycharm installed\procject\.venv\Scripts> python .\tic_tac_toe.py
